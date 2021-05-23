@@ -1,4 +1,4 @@
 import numpy
-import pygame as pygame
+import pygame
 import sys
 import random
