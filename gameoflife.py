@@ -5,11 +5,11 @@ import random
 
 width = 1000
 height = 1000
-RESOLUTION = 200
+RESOLUTION = 50
 SQUARESIZE = width / RESOLUTION
 size = width, height
 screen = pygame.display.set_mode(size)
-screen.fill((125,125,125))
+screen.fill((50,50,50))
 pygame.init()
 font = pygame.font.SysFont("Arial", 75)
 
